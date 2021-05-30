@@ -1,5 +1,6 @@
 # ArduinoModules
 Starter kit for better organized Arduino code. Intended for medium-size projects, for example when you connect a few sensors and motors. Instead of having all code in one INO file, we propose to use "ArduinoModules".
+
 This is a cooperative scheduler.
 
 ## How to start
